@@ -43,7 +43,7 @@ Sort on the basis of first element :
 
 [3,8]
 
-
+---------------------------------------------------------------------------
 Enter number of elements in array:3
 
 Enter a1[0] and a2[0] : 1 6
